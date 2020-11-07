@@ -1,0 +1,15 @@
+baseURL = "https://ca.shoogle.net/newfoundland-and-labrador"
+languageCode = "en-US"
+title = "Newfoundland and Labrador"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "newfoundland-and-labrador"
