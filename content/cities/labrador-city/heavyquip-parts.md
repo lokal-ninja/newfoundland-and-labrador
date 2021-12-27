@@ -1,5 +1,5 @@
 ---
 title: "Heavyquip Parts"
 url: /labrador-city/heavyquip-parts/
-shop: shop
+shop: Allgemein
 ---

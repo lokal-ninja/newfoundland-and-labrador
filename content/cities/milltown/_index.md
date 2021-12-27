@@ -1,6 +1,6 @@
 ---
 title: Milltown
 url: /milltown/
-latitude: 47.9039725
-longitude: -55.768167000000005
+latitude: 47.922
+longitude: -55.746
 ---

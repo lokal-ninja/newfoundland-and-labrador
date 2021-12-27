@@ -1,6 +1,6 @@
 ---
 title: Labrador City
 url: /labrador-city/
-latitude: 52.9422944
-longitude: -66.9177291
+latitude: 52.945
+longitude: -66.9
 ---

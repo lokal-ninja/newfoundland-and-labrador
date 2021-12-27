@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /carbonear/foodland/
-shop: supermarket
+shop: Supermarkt
 ---

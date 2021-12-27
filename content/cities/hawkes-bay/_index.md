@@ -1,6 +1,6 @@
 ---
 title: Hawkes Bay
 url: /hawkes-bay/
-latitude: 
-longitude: 
+latitude: 50.605
+longitude: -57.172
 ---

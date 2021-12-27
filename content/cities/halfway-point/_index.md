@@ -1,6 +1,6 @@
 ---
 title: Halfway Point
 url: /halfway-point/
-latitude: 48.990033800000006
-longitude: -58.0977047
+latitude: 48.995
+longitude: -58.1
 ---

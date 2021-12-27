@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /st-johns/costco/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,6 +1,6 @@
 ---
 title: St Lawrence
 url: /st-lawrence/
-latitude: 
-longitude: 
+latitude: 46.92
+longitude: -55.391
 ---

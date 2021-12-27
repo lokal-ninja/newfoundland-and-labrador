@@ -1,6 +1,6 @@
 ---
 title: Cape Broyle
 url: /cape-broyle/
-latitude: 47.0985784
-longitude: -52.9382943
+latitude: 47.096
+longitude: -52.949
 ---

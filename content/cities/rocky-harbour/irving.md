@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /rocky-harbour/irving/
-shop: shop
+shop: Allgemein
 ---

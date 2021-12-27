@@ -1,6 +1,6 @@
 ---
 title: Grand Bank
 url: /grand-bank/
-latitude: 47.1014198
-longitude: -55.75464770000001
+latitude: 47.095
+longitude: -55.77
 ---

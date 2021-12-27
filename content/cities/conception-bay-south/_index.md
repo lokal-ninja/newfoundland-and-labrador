@@ -1,6 +1,6 @@
 ---
 title: Conception Bay South
 url: /conception-bay-south/
-latitude: 
-longitude: 
+latitude: 47.521
+longitude: -52.949
 ---

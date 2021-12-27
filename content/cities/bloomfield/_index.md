@@ -1,6 +1,6 @@
 ---
 title: Bloomfield
 url: /bloomfield/
-latitude: 
-longitude: 
+latitude: 48.391
+longitude: -53.905
 ---

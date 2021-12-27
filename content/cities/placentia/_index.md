@@ -1,6 +1,6 @@
 ---
 title: Placentia
 url: /placentia/
-latitude: 47.2435087
-longitude: -53.9635466
+latitude: 47.239
+longitude: -53.968
 ---

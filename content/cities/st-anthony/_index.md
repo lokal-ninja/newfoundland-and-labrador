@@ -1,6 +1,6 @@
 ---
 title: St Anthony
 url: /st-anthony/
-latitude: 
-longitude: 
+latitude: 51.37
+longitude: -55.598
 ---

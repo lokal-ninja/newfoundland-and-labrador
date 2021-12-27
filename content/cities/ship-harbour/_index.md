@@ -1,6 +1,6 @@
 ---
 title: Ship Harbour
 url: /ship-harbour/
-latitude: 47.3678703
-longitude: -53.887486700000004
+latitude: 47.376
+longitude: -53.881
 ---

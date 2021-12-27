@@ -1,6 +1,6 @@
 ---
 title: Gander
 url: /gander/
-latitude: 48.9592291
-longitude: -54.6187879
+latitude: 48.959
+longitude: -54.601
 ---

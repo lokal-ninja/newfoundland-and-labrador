@@ -1,6 +1,6 @@
 ---
 title: Botwood
 url: /botwood/
-latitude: 49.14219000000001
-longitude: -55.343628
+latitude: 49.12
+longitude: -55.375
 ---

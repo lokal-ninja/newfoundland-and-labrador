@@ -1,6 +1,6 @@
 ---
 title: Stephenville
 url: /stephenville/
-latitude: 48.545202200000006
-longitude: -58.58711460000001
+latitude: 48.547
+longitude: -58.578
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saint John's
 url: /saint-johns/
-latitude: 
-longitude: 
+latitude: 47.549
+longitude: -52.781
 ---

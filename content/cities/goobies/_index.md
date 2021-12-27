@@ -1,6 +1,6 @@
 ---
 title: Goobies
 url: /goobies/
-latitude: 
-longitude: 
+latitude: 47.941
+longitude: -53.946
 ---

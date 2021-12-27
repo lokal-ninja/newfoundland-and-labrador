@@ -1,6 +1,6 @@
 ---
 title: Hermitage
 url: /hermitage/
-latitude: 
-longitude: 
+latitude: 47.549
+longitude: -55.927
 ---
