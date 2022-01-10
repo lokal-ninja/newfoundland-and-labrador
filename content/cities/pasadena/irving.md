@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /pasadena/irving/
-shop: Lebensmittel
+shop: convenience
 ---

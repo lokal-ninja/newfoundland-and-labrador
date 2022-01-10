@@ -1,5 +1,5 @@
 ---
 title: "Wholesale Club"
 url: /st-johns/wholesale-club/
-shop: Supermarkt
+shop: supermarket
 ---

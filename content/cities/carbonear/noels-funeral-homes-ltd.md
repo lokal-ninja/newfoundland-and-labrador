@@ -1,5 +1,5 @@
 ---
 title: "Noel's Funeral Homes Ltd"
 url: /carbonear/noels-funeral-homes-ltd/
-shop: Bestattungen
+shop: funeral directors
 ---

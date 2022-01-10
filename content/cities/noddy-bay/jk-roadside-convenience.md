@@ -1,5 +1,5 @@
 ---
 title: "JK Roadside Convenience"
 url: /noddy-bay/jk-roadside-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clarkes Supply Ltd"
 url: /victoria/clarkes-supply-ltd/
-shop: Lebensmittel
+shop: convenience
 ---

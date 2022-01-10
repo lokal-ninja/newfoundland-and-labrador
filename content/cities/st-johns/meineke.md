@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /st-johns/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

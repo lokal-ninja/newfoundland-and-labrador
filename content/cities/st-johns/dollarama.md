@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /st-johns/dollarama/
-shop: Kramladen
+shop: variety store
 ---

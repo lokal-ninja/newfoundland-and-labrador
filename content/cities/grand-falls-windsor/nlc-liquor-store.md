@@ -1,5 +1,5 @@
 ---
 title: "NLC Liquor Store"
 url: /grand-falls-windsor/nlc-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

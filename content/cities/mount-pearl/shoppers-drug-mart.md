@@ -1,5 +1,5 @@
 ---
 title: "Shoppers Drug Mart"
 url: /mount-pearl/shoppers-drug-mart/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Parts Network"
 url: /mount-pearl/auto-parts-network/
-shop: Autoteile
+shop: car parts
 ---

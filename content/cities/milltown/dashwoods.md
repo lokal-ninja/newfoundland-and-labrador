@@ -1,5 +1,5 @@
 ---
 title: "Dashwood's"
 url: /milltown/dashwoods/
-shop: Lebensmittel
+shop: convenience
 ---

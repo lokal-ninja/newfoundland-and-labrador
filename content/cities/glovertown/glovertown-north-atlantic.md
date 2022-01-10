@@ -1,5 +1,5 @@
 ---
 title: "Glovertown North Atlantic"
 url: /glovertown/glovertown-north-atlantic/
-shop: Lebensmittel
+shop: convenience
 ---

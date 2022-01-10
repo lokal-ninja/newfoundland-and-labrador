@@ -1,5 +1,5 @@
 ---
 title: "Wilson's Gas Stop"
 url: /lawn/wilsons-gas-stop/
-shop: Lebensmittel
+shop: convenience
 ---
