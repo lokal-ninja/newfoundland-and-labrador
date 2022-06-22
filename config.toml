@@ -1,4 +1,4 @@
-baseURL = "https://ca.shoogle.net/newfoundland-and-labrador"
+baseURL = "https://ca.shoogle.net/newfoundland-and-labrador/"
 languageCode = "en-US"
 title = "Newfoundland and Labrador"
 theme = "ln-base"
