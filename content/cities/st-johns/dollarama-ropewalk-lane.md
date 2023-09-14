@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /st-johns/dollarama/
+url: /st-johns/dollarama-ropewalk-lane/
 shop: variety store
 ---

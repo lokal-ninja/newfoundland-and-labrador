@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
-url: /st-johns/sobeys/
+url: /st-johns/sobeys-ropewalk-lane/
 shop: supermarket
 ---

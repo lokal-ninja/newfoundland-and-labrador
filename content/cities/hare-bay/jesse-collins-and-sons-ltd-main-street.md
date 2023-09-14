@@ -1,5 +1,5 @@
 ---
 title: "Jesse Collins & Sons Ltd."
-url: /hare-bay/jesse-collins-and-sons-ltd/
+url: /hare-bay/jesse-collins-and-sons-ltd-main-street/
 shop: furniture
 ---
