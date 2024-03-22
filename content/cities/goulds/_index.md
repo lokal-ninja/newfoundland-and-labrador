@@ -1,6 +1,6 @@
 ---
 title: Goulds
 url: /goulds/
-latitude: 47.463
-longitude: -52.77
+latitude: 47.462
+longitude: -52.771
 ---
