@@ -1,5 +1,5 @@
 ---
 title: "BioScript Pharmacy Newfoundland"
 url: /st-johns/bioscript-pharmacy-newfoundland/
-shop: chemist
+shop: Drogerie
 ---

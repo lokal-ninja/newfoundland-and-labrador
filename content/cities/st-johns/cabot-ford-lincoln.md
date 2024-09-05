@@ -1,5 +1,5 @@
 ---
 title: "Cabot Ford Lincoln"
 url: /st-johns/cabot-ford-lincoln/
-shop: car
+shop: Autohaus
 ---

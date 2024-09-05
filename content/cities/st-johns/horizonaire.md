@@ -1,5 +1,5 @@
 ---
 title: "HorizonAire"
 url: /st-johns/horizonaire/
-shop: medical supply
+shop: Sanitätshaus
 ---

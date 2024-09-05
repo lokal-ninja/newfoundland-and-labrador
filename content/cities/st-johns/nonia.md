@@ -1,5 +1,5 @@
 ---
 title: "NONIA"
 url: /st-johns/nonia/
-shop: gift
+shop: Andenken
 ---

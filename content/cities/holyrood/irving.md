@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /holyrood/irving/
-shop: convenience
+shop: Lebensmittel
 ---

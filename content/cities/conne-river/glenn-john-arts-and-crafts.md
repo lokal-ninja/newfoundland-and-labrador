@@ -1,5 +1,5 @@
 ---
 title: "Glenn John Arts and Crafts"
 url: /conne-river/glenn-john-arts-and-crafts/
-shop: craft
+shop: Basteln
 ---

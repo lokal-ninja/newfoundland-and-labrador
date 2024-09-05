@@ -1,5 +1,5 @@
 ---
 title: "Entertainment Centre"
 url: /st-johns/entertainment-centre/
-shop: electronics
+shop: Elektronik
 ---

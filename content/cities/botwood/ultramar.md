@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /botwood/ultramar/
-shop: convenience
+shop: Lebensmittel
 ---

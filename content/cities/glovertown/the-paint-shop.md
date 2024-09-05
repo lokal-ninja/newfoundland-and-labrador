@@ -1,5 +1,5 @@
 ---
 title: "The Paint Shop"
 url: /glovertown/the-paint-shop/
-shop: paint
+shop: Farben
 ---
