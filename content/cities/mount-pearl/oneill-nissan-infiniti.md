@@ -1,5 +1,5 @@
 ---
 title: "O'Neill Nissan Infiniti"
 url: /mount-pearl/oneill-nissan-infiniti/
-shop: Autohaus
+shop: car
 ---

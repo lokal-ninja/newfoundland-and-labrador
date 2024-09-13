@@ -1,5 +1,5 @@
 ---
 title: "Rich's Auto"
 url: /hare-bay/richs-auto-main-street/
-shop: Autowerkstatt
+shop: car repair
 ---

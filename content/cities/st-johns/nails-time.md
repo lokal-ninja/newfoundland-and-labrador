@@ -1,5 +1,5 @@
 ---
 title: "Nails Time"
 url: /st-johns/nails-time/
-shop: Kosmetik
+shop: beauty
 ---

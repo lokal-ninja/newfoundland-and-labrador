@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /summerford/irving/
-shop: Lebensmittel
+shop: convenience
 ---

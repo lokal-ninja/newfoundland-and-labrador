@@ -1,5 +1,5 @@
 ---
 title: "Clay Cafe Avalon"
 url: /mount-pearl/clay-cafe-avalon/
-shop: Töpferei
+shop: pottery
 ---

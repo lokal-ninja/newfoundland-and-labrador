@@ -1,5 +1,5 @@
 ---
 title: "Premium Preowned"
 url: /st-johns/premium-preowned/
-shop: Autohaus
+shop: car
 ---

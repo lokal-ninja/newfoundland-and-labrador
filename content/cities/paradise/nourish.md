@@ -1,5 +1,5 @@
 ---
 title: "Nourish"
 url: /paradise/nourish/
-shop: Bäckerei
+shop: bakery
 ---

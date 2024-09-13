@@ -1,5 +1,5 @@
 ---
 title: "Ray's Custom Finish"
 url: /mount-pearl/rays-custom-finish/
-shop: Autowerkstatt
+shop: car repair
 ---

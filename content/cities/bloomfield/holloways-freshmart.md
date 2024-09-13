@@ -1,5 +1,5 @@
 ---
 title: "Holloway's Freshmart"
 url: /bloomfield/holloways-freshmart/
-shop: Supermarkt
+shop: supermarket
 ---

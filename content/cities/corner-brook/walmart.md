@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /corner-brook/walmart/
-shop: Warenhaus
+shop: department store
 ---

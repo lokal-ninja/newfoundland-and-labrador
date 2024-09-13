@@ -1,5 +1,5 @@
 ---
 title: "Running Room"
 url: /st-johns/running-room/
-shop: Sport
+shop: sports
 ---

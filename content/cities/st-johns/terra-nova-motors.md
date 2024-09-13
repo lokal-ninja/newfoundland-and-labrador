@@ -1,5 +1,5 @@
 ---
 title: "Terra Nova Motors"
 url: /st-johns/terra-nova-motors/
-shop: Autohaus
+shop: car
 ---

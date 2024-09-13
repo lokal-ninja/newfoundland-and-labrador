@@ -1,5 +1,5 @@
 ---
 title: "Kayak Adventures"
 url: /cape-broyle/kayak-adventures/
-shop: Outdoor
+shop: outdoor
 ---

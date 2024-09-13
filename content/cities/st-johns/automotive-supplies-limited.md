@@ -1,5 +1,5 @@
 ---
 title: "Automotive Supplies Limited"
 url: /st-johns/automotive-supplies-limited/
-shop: Autoteile
+shop: car parts
 ---

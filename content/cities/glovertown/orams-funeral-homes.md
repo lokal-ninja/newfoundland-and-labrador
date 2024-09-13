@@ -1,5 +1,5 @@
 ---
 title: "Oram's Funeral Homes"
 url: /glovertown/orams-funeral-homes/
-shop: Bestattungen
+shop: funeral directors
 ---

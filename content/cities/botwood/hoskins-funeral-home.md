@@ -1,5 +1,5 @@
 ---
 title: "Hoskins Funeral Home"
 url: /botwood/hoskins-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

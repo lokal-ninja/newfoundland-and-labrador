@@ -1,5 +1,5 @@
 ---
 title: "freshmart"
 url: /port-rexton/freshmart/
-shop: Supermarkt
+shop: supermarket
 ---

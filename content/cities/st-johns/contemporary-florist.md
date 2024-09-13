@@ -1,5 +1,5 @@
 ---
 title: "Contemporary Florist"
 url: /st-johns/contemporary-florist/
-shop: Blumen
+shop: florist
 ---

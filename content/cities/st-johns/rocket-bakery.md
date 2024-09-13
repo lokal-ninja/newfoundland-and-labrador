@@ -1,5 +1,5 @@
 ---
 title: "Rocket Bakery"
 url: /st-johns/rocket-bakery/
-shop: Bäckerei
+shop: bakery
 ---

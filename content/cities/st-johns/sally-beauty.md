@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /st-johns/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

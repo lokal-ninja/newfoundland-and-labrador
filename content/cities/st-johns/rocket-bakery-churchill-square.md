@@ -1,5 +1,5 @@
 ---
 title: "Rocket Bakery"
 url: /st-johns/rocket-bakery-churchill-square/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timemasters"
 url: /st-johns/timemasters/
-shop: Spiele
+shop: games
 ---

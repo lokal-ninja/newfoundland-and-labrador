@@ -1,5 +1,5 @@
 ---
 title: "Global Imports"
 url: /mount-pearl/global-imports/
-shop: Autohaus
+shop: car
 ---

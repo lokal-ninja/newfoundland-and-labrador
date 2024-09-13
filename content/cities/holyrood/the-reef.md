@@ -1,5 +1,5 @@
 ---
 title: "The Reef"
 url: /holyrood/the-reef/
-shop: Hanf
+shop: cannabis
 ---
