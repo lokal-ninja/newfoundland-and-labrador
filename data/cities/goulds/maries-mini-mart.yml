@@ -1,11 +1,11 @@
 id: 645023921
-type: way
+type: node
 latitude: 47.46158
 longitude: -52.77127
-postcode: "A1S 1G7"
+postcode: A1S 1G7
 city: Goulds
-street: "Main Road"
-housenumber: 389
+street: Main Road
+housenumber: "389"
 phone: ""
 opening_hours: ""
 website: ""

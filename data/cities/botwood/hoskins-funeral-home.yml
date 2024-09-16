@@ -1,11 +1,11 @@
 id: 655255523
-type: way
+type: node
 latitude: 49.14739
 longitude: -55.34243
-postcode: "A0H 1E0"
+postcode: A0H 1E0
 city: Botwood
-street: "Water Street"
-housenumber: 271
+street: Water Street
+housenumber: "271"
 phone: ""
 opening_hours: ""
 website: ""

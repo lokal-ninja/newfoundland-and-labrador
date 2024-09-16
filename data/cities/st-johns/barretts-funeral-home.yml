@@ -1,11 +1,11 @@
 id: 980172920
-type: way
+type: node
 latitude: 47.5492
 longitude: -52.72894
-postcode: "A1E 1J9"
+postcode: A1E 1J9
 city: St. John's
-street: "Hamilton Avenue"
-housenumber: 328
+street: Hamilton Avenue
+housenumber: "328"
 phone: "+17095796007"
-opening_hours: "24/7"
-website: "https://www.barretts.ca/obituaries/obituary-listings"
+opening_hours: 24/7
+website: https://www.barretts.ca/obituaries/obituary-listings

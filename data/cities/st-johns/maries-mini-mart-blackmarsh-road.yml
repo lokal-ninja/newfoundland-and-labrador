@@ -1,11 +1,11 @@
 id: 327348383
-type: way
+type: node
 latitude: 47.54457
 longitude: -52.74306
 postcode: ""
 city: St. John's
-street: "Blackmarsh Road"
-housenumber: 245
+street: Blackmarsh Road
+housenumber: "245"
 phone: ""
 opening_hours: ""
 website: ""

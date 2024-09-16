@@ -1,11 +1,11 @@
 id: 568732321
-type: way
+type: node
 latitude: 48.67085
 longitude: -53.99944
-postcode: "A0G 2L0"
+postcode: A0G 2L0
 city: Glovertown
-street: "Main Street"
-housenumber: 232
+street: Main Street
+housenumber: "232"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00; Sa 08:30-17:30"
+opening_hours: Mo-Fr 08:30-17:00; Sa 08:30-17:30
 website: ""

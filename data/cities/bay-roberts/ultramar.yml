@@ -1,11 +1,11 @@
 id: 303992982
-type: way
+type: node
 latitude: 47.58055
 longitude: -53.2793
 postcode: ""
 city: Bay Roberts
-street: "Conception Bay Highway"
-housenumber: 199
+street: Conception Bay Highway
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

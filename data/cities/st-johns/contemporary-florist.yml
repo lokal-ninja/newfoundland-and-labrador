@@ -1,11 +1,11 @@
 id: 980182312
-type: way
+type: node
 latitude: 47.5495
 longitude: -52.72767
-postcode: "A1E 1K1"
+postcode: A1E 1K1
 city: St. John's
-street: "Hamilton Avenue"
-housenumber: 319
+street: Hamilton Avenue
+housenumber: "319"
 phone: "+17097398645"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://www.contemporaryflorist.com/"
+opening_hours: Mo-Sa 10:00-17:00
+website: https://www.contemporaryflorist.com/

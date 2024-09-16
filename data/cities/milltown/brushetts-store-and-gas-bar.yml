@@ -1,11 +1,11 @@
 id: 247557926
-type: way
+type: node
 latitude: 47.92245
 longitude: -55.74597
 postcode: ""
 city: Milltown
-street: "Route 361"
-housenumber: 230
-phone: "+1-709-882-2737"
+street: Route 361
+housenumber: "230"
+phone: +1-709-882-2737
 opening_hours: ""
 website: ""

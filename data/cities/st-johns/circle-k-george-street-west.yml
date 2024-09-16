@@ -1,11 +1,11 @@
 id: 352683092
-type: way
+type: node
 latitude: 47.55855
 longitude: -52.71322
 postcode: ""
 city: St. John's
-street: "George Street West"
-housenumber: 108
+street: George Street West
+housenumber: "108"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

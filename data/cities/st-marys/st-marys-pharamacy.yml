@@ -1,11 +1,11 @@
 id: 1305465133
-type: way
+type: node
 latitude: 46.91192
 longitude: -53.57698
-postcode: "A0B3B0"
+postcode: A0B3B0
 city: St. Mary's
-street: "Dillon's Lane"
-housenumber: 2
+street: Dillon's Lane
+housenumber: "2"
 phone: "7095252599"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 980182314
-type: way
+type: node
 latitude: 47.54934
 longitude: -52.72795
-postcode: "A1E 1K1"
+postcode: A1E 1K1
 city: St. John's
-street: "Hamilton Avenue"
-housenumber: 323
+street: Hamilton Avenue
+housenumber: "323"
 phone: "+17097226532"
-opening_hours: "Mo-Fr 09:00-16:30"
+opening_hours: Mo-Fr 09:00-16:30
 website: ""

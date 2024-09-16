@@ -1,11 +1,11 @@
 id: 651790936
-type: way
+type: node
 latitude: 47.61424
 longitude: -52.7218
-postcode: "A1A 5E8"
+postcode: A1A 5E8
 city: St. John's
-street: "Stavanger Drive"
-housenumber: 2
+street: Stavanger Drive
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

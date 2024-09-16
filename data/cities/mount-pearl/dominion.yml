@@ -1,11 +1,11 @@
 id: 120689533
-type: way
+type: node
 latitude: 47.50333
 longitude: -52.81237
 postcode: ""
 city: Mount Pearl
-street: "Old Placentia Road"
-housenumber: 150
+street: Old Placentia Road
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1305465131
-type: way
+type: node
 latitude: 46.91199
 longitude: -53.57676
-postcode: "A0B3B0"
+postcode: A0B3B0
 city: St. Mary's
-street: "Main Road"
-housenumber: 62
+street: Main Road
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

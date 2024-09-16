@@ -1,11 +1,11 @@
 id: 576119652
-type: way
+type: node
 latitude: 47.56946
 longitude: -52.7067
 postcode: ""
 city: St. John's
-street: "King's Road"
-housenumber: 88
+street: King's Road
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

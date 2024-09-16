@@ -1,11 +1,11 @@
 id: 305924468
-type: way
+type: node
 latitude: 47.72597
 longitude: -53.24316
-postcode: "A1Y 1A6"
+postcode: A1Y 1A6
 city: Carbonear
-street: "Columbus Drive"
-housenumber: 110
-phone: "+1 709-595-3055"
+street: Columbus Drive
+housenumber: "110"
+phone: +1 709-595-3055
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 523329800
-type: way
+type: node
 latitude: 47.55992
 longitude: -52.76026
 postcode: ""
 city: St. John's
-street: "O'Leary Avenue"
-housenumber: 37
+street: O'Leary Avenue
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

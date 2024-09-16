@@ -1,11 +1,11 @@
 id: 304034004
-type: way
+type: node
 latitude: 47.72471
 longitude: -53.23937
-postcode: "A1Y 1A5"
+postcode: A1Y 1A5
 city: Carbonear
-street: "Powell Drive"
-housenumber: 99
+street: Powell Drive
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

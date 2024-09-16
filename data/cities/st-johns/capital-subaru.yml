@@ -1,11 +1,11 @@
 id: 264200586
-type: way
+type: node
 latitude: 47.55482
 longitude: -52.77051
-postcode: "A1B 3R2"
+postcode: A1B 3R2
 city: St John's
-street: "Kenmount Road"
-housenumber: 150
+street: Kenmount Road
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

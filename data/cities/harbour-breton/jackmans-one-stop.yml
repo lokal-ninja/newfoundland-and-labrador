@@ -1,11 +1,11 @@
 id: 266187749
-type: way
+type: node
 latitude: 47.46991
 longitude: -55.81997
 postcode: ""
 city: Harbour Breton
-street: "Canada Drive"
-housenumber: 200
+street: Canada Drive
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1201755511
-type: way
+type: node
 latitude: 49.64897
 longitude: -54.7709
-postcode: "A0G 4M0"
+postcode: A0G 4M0
 city: Twillingate
-street: "Main Street"
-housenumber: 137
+street: Main Street
+housenumber: "137"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 209823501
-type: way
+type: node
 latitude: 47.56232
 longitude: -52.74496
-postcode: "A1B 1C2"
+postcode: A1B 1C2
 city: St. John's
-street: "Freshwater Road"
-housenumber: 326
-phone: "+1-709-722-7544"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Freshwater Road
+housenumber: "326"
+phone: +1-709-722-7544
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

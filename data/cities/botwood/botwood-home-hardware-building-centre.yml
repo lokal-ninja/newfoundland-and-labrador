@@ -1,11 +1,11 @@
 id: 655340166
-type: way
+type: node
 latitude: 49.14545
 longitude: -55.34267
-postcode: "A0H 1E0"
+postcode: A0H 1E0
 city: Botwood
-street: "Commonwealth Drive"
-housenumber: 3
+street: Commonwealth Drive
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

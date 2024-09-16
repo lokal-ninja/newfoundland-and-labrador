@@ -1,11 +1,11 @@
 id: 547057862
-type: way
+type: node
 latitude: 48.14529
 longitude: -53.95845
 postcode: ""
 city: Clarenville
-street: "Trans Canada Highway"
-housenumber: 132
+street: Trans Canada Highway
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

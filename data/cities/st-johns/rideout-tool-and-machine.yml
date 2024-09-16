@@ -1,11 +1,11 @@
 id: 795462731
-type: way
+type: node
 latitude: 47.55387
 longitude: -52.77367
-postcode: "A1B 3R2"
+postcode: A1B 3R2
 city: St John's
-street: "Kenmount Road"
-housenumber: 222
-phone: "+1-709-754-2240"
+street: Kenmount Road
+housenumber: "222"
+phone: +1-709-754-2240
 opening_hours: ""
 website: ""

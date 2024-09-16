@@ -1,11 +1,11 @@
 id: 313141089
-type: way
+type: node
 latitude: 47.5011
 longitude: -52.8125
 postcode: ""
 city: Mount Pearl
-street: "Merchant Drive"
-housenumber: 26
+street: Merchant Drive
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

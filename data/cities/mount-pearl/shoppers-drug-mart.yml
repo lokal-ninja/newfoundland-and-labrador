@@ -1,11 +1,11 @@
 id: 205853872
-type: way
+type: node
 latitude: 47.50253
 longitude: -52.80894
 postcode: ""
 city: Mount Pearl
-street: "Gibson Drive"
-housenumber: 18
+street: Gibson Drive
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

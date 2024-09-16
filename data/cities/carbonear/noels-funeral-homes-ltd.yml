@@ -1,11 +1,11 @@
 id: 684997793
-type: way
+type: node
 latitude: 47.74028
 longitude: -53.21322
-postcode: "A1Y 1A9"
+postcode: A1Y 1A9
 city: Carbonear
-street: "Water Street"
-housenumber: 106
+street: Water Street
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

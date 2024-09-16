@@ -1,11 +1,11 @@
 id: 171573478
-type: way
+type: node
 latitude: 47.76169
 longitude: -53.2378
-postcode: "A0A 4G0"
+postcode: A0A 4G0
 city: Victoria
-street: "Highway 70"
-housenumber: 100
+street: Highway 70
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

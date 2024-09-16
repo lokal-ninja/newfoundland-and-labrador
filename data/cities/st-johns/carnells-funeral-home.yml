@@ -1,11 +1,11 @@
 id: 209822906
-type: way
+type: node
 latitude: 47.56152
 longitude: -52.74458
-postcode: "A1B 3B2"
+postcode: A1B 3B2
 city: St. John's
-street: "Freshwater Road"
-housenumber: 329
-phone: "+1-709-722-2730"
+street: Freshwater Road
+housenumber: "329"
+phone: +1-709-722-2730
 opening_hours: ""
-website: "https://www.carnells.com/"
+website: https://www.carnells.com/

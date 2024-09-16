@@ -1,11 +1,11 @@
 id: 312310008
-type: way
+type: node
 latitude: 47.0954
 longitude: -55.76984
-postcode: "A0E 1W0"
+postcode: A0E 1W0
 city: Grand Bank
-street: "Main Street"
-housenumber: 74
-phone: "+1-709-832-1271"
+street: Main Street
+housenumber: "74"
+phone: +1-709-832-1271
 opening_hours: ""
 website: ""

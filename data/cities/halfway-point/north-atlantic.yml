@@ -1,11 +1,11 @@
 id: 546866084
-type: way
+type: node
 latitude: 48.99499
 longitude: -58.10031
-postcode: "A0L 1A0"
+postcode: A0L 1A0
 city: Halfway Point
-street: "Main Street"
-housenumber: 182
-phone: "+1-709-789-2237"
+street: Main Street
+housenumber: "182"
+phone: +1-709-789-2237
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 2208771387
 type: node
 latitude: 47.56365
 longitude: -52.70765
-postcode: "A1C1A9"
+postcode: A1C1A9
 city: St. John's
-street: "Water Street"
-housenumber: 220
-phone: "+1-709-579-4453"
+street: Water Street
+housenumber: "220"
+phone: +1-709-579-4453
 opening_hours: ""
 website: ""

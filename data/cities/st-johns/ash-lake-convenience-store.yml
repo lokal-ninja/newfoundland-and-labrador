@@ -1,11 +1,11 @@
 id: 443438677
-type: way
+type: node
 latitude: 47.59615
 longitude: -52.7318
-postcode: "A1B 2L3"
+postcode: A1B 2L3
 city: St. John's
-street: "Hunt's Lane"
-housenumber: 10
+street: Hunt's Lane
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

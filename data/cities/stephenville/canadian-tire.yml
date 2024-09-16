@@ -1,11 +1,11 @@
 id: 546884239
-type: way
+type: node
 latitude: 48.54656
 longitude: -58.57815
-postcode: "A2N 1H3"
+postcode: A2N 1H3
 city: Stephenville
-street: "Prince Rupert Drive"
-housenumber: 54
-phone: "+1-709-643-2427"
+street: Prince Rupert Drive
+housenumber: "54"
+phone: +1-709-643-2427
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 203722801
-type: way
+type: node
 latitude: 47.58188
 longitude: -52.71241
-postcode: "A1A 1W8"
+postcode: A1A 1W8
 city: St. John's
-street: "Elizabeth Avenue"
-housenumber: 71
-phone: "+1-709-753-7200"
+street: Elizabeth Avenue
+housenumber: "71"
+phone: +1-709-753-7200
 opening_hours: ""
 website: ""

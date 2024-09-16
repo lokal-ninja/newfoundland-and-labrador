@@ -1,11 +1,11 @@
 id: 1212402057
-type: way
+type: node
 latitude: 47.55569
 longitude: -52.7372
-postcode: "A1E 4P1"
+postcode: A1E 4P1
 city: St. John's
-street: "Ropewalk Lane"
-housenumber: 45
-phone: "+1-709-724-1265"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-18:00"
+street: Ropewalk Lane
+housenumber: "45"
+phone: +1-709-724-1265
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-18:00
 website: ""

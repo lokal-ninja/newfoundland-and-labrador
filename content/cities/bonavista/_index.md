@@ -1,6 +1,6 @@
 ---
 title: Bonavista
 url: /bonavista/
-latitude: 48.647
-longitude: -53.105
+latitude: 48.642
+longitude: -53.103
 ---

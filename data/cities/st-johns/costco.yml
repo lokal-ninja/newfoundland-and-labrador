@@ -1,11 +1,11 @@
 id: 650656218
-type: way
+type: node
 latitude: 47.50596
 longitude: -52.83652
 postcode: ""
 city: St. John's
-street: "Danny Drive"
-housenumber: 75
+street: Danny Drive
+housenumber: "75"
 phone: ""
 opening_hours: ""
-website: "https://www.costco.ca/warehouse-locations/st-johns-st-john-s-nl-1324.html"
+website: https://www.costco.ca/warehouse-locations/st-johns-st-john-s-nl-1324.html

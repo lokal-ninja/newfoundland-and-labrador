@@ -1,11 +1,11 @@
 id: 110834097
-type: way
+type: node
 latitude: 47.52579
 longitude: -52.76943
-postcode: "A1E 2C9"
+postcode: A1E 2C9
 city: St. John's
-street: "Topsail Road"
-housenumber: 632
+street: Topsail Road
+housenumber: "632"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

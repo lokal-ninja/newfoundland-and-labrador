@@ -1,11 +1,11 @@
 id: 118884889
-type: way
+type: node
 latitude: 47.61464
 longitude: -52.71123
 postcode: ""
 city: St. John's
-street: "Stavanger Drive"
-housenumber: 410
+street: Stavanger Drive
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

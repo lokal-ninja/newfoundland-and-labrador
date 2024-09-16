@@ -1,11 +1,11 @@
 id: 699679346
-type: way
+type: node
 latitude: 52.94579
 longitude: -66.89959
-postcode: "A2V 2J6"
+postcode: A2V 2J6
 city: Labrador City
-street: "Airport Road"
-housenumber: 109
-phone: "+1-709-944-3500"
+street: Airport Road
+housenumber: "109"
+phone: +1-709-944-3500
 opening_hours: ""
 website: ""

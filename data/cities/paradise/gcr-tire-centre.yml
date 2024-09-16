@@ -1,11 +1,11 @@
 id: 235062896
-type: way
+type: node
 latitude: 47.53028
 longitude: -52.84143
-postcode: "A1L 3W1"
+postcode: A1L 3W1
 city: Paradise
-street: "St. Anne's Crescent"
-housenumber: 15
+street: St. Anne's Crescent
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-12:00"
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-12:00
 website: ""

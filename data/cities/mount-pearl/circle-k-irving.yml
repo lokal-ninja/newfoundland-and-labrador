@@ -1,11 +1,11 @@
 id: 647864835
-type: way
+type: node
 latitude: 47.51996
 longitude: -52.80812
-postcode: "A1N 1W6"
+postcode: A1N 1W6
 city: Mount Pearl
-street: "Commonwealth Avenue"
-housenumber: 22
+street: Commonwealth Avenue
+housenumber: "22"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 751431440
-type: way
+type: node
 latitude: 48.86751
 longitude: -53.99149
 postcode: ""
 city: Hare Bay
-street: "Main Street"
-housenumber: 299
+street: Main Street
+housenumber: "299"
 phone: ""
 opening_hours: ""
 website: ""

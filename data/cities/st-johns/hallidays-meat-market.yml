@@ -1,11 +1,11 @@
 id: 756452724
-type: way
+type: node
 latitude: 47.56844
 longitude: -52.70484
 postcode: ""
 city: St. John's
-street: "Gower Street"
-housenumber: 103
+street: Gower Street
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00"
+opening_hours: Mo-Sa 07:30-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 749041708
-type: way
+type: node
 latitude: 48.85935
 longitude: -54.00308
-postcode: "A0G 2P0"
+postcode: A0G 2P0
 city: Hare Bay
-street: "Main Street"
-housenumber: 144
+street: Main Street
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

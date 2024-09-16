@@ -1,11 +1,11 @@
 id: 608149281
-type: way
+type: node
 latitude: 47.54073
 longitude: -52.79962
-postcode: "A1B 3P9"
+postcode: A1B 3P9
 city: St. John's
-street: "Kenmount Road"
-housenumber: 595
-phone: "+1-709-364-4130"
+street: Kenmount Road
+housenumber: "595"
+phone: +1-709-364-4130
 opening_hours: ""
 website: ""

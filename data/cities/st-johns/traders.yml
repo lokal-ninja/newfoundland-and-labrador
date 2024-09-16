@@ -1,11 +1,11 @@
 id: 652135172
-type: way
+type: node
 latitude: 47.56245
 longitude: -52.74242
-postcode: "A1B 1C3"
+postcode: A1B 1C3
 city: St. John's
-street: "Freshwater Road"
-housenumber: 321
-phone: "+1-709-754-5960"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-17:00"
-website: "https://tradersatlantic.ca/"
+street: Freshwater Road
+housenumber: "321"
+phone: +1-709-754-5960
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-17:00
+website: https://tradersatlantic.ca/

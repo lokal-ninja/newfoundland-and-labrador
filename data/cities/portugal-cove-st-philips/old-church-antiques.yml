@@ -1,11 +1,11 @@
 id: 152917176
-type: way
+type: node
 latitude: 47.62813
 longitude: -52.85165
-postcode: "A1N 2J4"
+postcode: A1N 2J4
 city: Portugal Cove - St. Philips
-street: "Anglican Church Road"
-housenumber: 2
-phone: "+1-709-895-0443"
-opening_hours: "10:00-18:00"
+street: Anglican Church Road
+housenumber: "2"
+phone: +1-709-895-0443
+opening_hours: 10:00-18:00
 website: ""

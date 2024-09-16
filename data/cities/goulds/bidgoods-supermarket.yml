@@ -1,11 +1,11 @@
 id: 661780846
-type: way
+type: node
 latitude: 47.46339
 longitude: -52.7703
-postcode: "A1S 1J9"
+postcode: A1S 1J9
 city: Goulds
-street: "Main Road"
-housenumber: 355
+street: Main Road
+housenumber: "355"
 phone: ""
 opening_hours: ""
 website: ""

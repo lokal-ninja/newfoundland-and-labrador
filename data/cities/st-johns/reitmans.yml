@@ -1,11 +1,11 @@
 id: 723283864
-type: way
+type: node
 latitude: 47.61812
 longitude: -52.71783
 postcode: ""
 city: St. John's
-street: "Aberdeen Avenue"
-housenumber: 95
+street: Aberdeen Avenue
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

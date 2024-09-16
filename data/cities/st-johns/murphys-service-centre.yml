@@ -1,11 +1,11 @@
 id: 372247917
-type: way
+type: node
 latitude: 47.56877
 longitude: -52.72327
 postcode: ""
 city: St. John's
-street: "Empire Avenue"
-housenumber: 155
+street: Empire Avenue
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

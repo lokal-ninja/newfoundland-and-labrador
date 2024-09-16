@@ -1,11 +1,11 @@
 id: 608149301
-type: way
+type: node
 latitude: 47.55487
 longitude: -52.76489
-postcode: "A1B 3P9"
+postcode: A1B 3P9
 city: St. John's
-street: "Kenmount Road"
-housenumber: 177
-phone: "+1-709-722-6600"
+street: Kenmount Road
+housenumber: "177"
+phone: +1-709-722-6600
 opening_hours: ""
-website: "https://www.cabotford.ca/"
+website: https://www.cabotford.ca/

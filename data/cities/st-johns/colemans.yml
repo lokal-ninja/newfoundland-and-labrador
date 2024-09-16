@@ -1,11 +1,11 @@
 id: 111547619
-type: way
+type: node
 latitude: 47.60031
 longitude: -52.71055
 postcode: ""
 city: St. John's
-street: "Newfoundland Drive"
-housenumber: 370
+street: Newfoundland Drive
+housenumber: "370"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-20:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-20:00
 website: ""

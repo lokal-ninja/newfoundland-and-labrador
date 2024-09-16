@@ -1,11 +1,11 @@
 id: 308091449
-type: way
+type: node
 latitude: 47.51808
 longitude: -52.8716
 postcode: ""
 city: Paradise
-street: "McNamara Drive"
-housenumber: 153
+street: McNamara Drive
+housenumber: "153"
 phone: ""
 opening_hours: ""
 website: ""

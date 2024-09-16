@@ -1,11 +1,11 @@
 id: 304034606
-type: way
+type: node
 latitude: 47.72531
 longitude: -53.24609
-postcode: "A1Y 1A6"
+postcode: A1Y 1A6
 city: Carbonear
-street: "Columbus Drive"
-housenumber: 121
-phone: "+1-709-596-5005"
+street: Columbus Drive
+housenumber: "121"
+phone: +1-709-596-5005
 opening_hours: ""
-website: "http://carbonear.hickmangroup.ca/carbonear.asp"
+website: http://carbonear.hickmangroup.ca/carbonear.asp

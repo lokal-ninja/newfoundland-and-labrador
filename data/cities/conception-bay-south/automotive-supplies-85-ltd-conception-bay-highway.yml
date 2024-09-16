@@ -1,11 +1,11 @@
 id: 328538993
-type: way
+type: node
 latitude: 47.51839
 longitude: -52.95542
 postcode: ""
 city: Conception Bay South
-street: "Conception Bay Highway"
-housenumber: 99
+street: Conception Bay Highway
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Sa 08:30-17:30, Sa 09:00-13:00"
+opening_hours: Mo-Sa 08:30-17:30, Sa 09:00-13:00
 website: ""

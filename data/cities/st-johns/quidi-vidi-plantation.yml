@@ -1,11 +1,11 @@
 id: 613834854
-type: way
+type: node
 latitude: 47.58229
 longitude: -52.67779
 postcode: ""
 city: St. John's
 street: ""
-housenumber: 10
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "http://quidividivillageplantation.com/"
+website: http://quidividivillageplantation.com/
