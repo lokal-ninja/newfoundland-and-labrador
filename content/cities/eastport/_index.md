@@ -1,6 +1,6 @@
 ---
 title: Eastport
 url: /eastport/
-latitude: 48.653
+latitude: 48.654
 longitude: -53.755
 ---
