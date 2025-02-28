@@ -1,6 +1,6 @@
 ---
 title: Carbonear
 url: /carbonear/
-latitude: 47.727
-longitude: -53.238
+latitude: 47.729
+longitude: -53.246
 ---
