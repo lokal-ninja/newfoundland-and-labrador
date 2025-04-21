@@ -1,6 +1,6 @@
 ---
 title: Mount Pearl
 url: /mount-pearl/
-latitude: 47.531
-longitude: -52.828
+latitude: 47.527
+longitude: -52.823
 ---
