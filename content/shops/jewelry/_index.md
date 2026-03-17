@@ -1,5 +1,5 @@
 ---
 title: jewelry
 url: /jewelry/
-icon: jewelry
+icon: other
 ---
