@@ -1,5 +1,5 @@
 ---
-title: "Piper's"
+title: "Pipers"
 url: /st-johns/pipers/
 shop: department store
 ---
