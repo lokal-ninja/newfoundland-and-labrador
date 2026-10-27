@@ -1,6 +1,6 @@
 ---
 title: Harbour Breton
 url: /harbour-breton/
-latitude: 47.47
-longitude: -55.82
+latitude: 47.473
+longitude: -55.829
 ---
